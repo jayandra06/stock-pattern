@@ -4,7 +4,7 @@ A Python CLI scanner to detect and plot common chart patterns. Includes Harmonic
 
 **Supports Python >= 3.8**
 
-If you :heart: my work so far, please :star2: this repo.
+If you :heart: my work so far, please :star2: this repo..
 
 ---
 
